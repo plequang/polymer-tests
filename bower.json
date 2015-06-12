@@ -1,0 +1,24 @@
+{
+  "name": "polymer-tests",
+  "version": "0.0.0",
+  "homepage": "https://github.com/plequang/polymer-tests",
+  "authors": [
+    "Pascal LE QUANG <pascal.lequang@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "webcomponentsjs": "0.7.3"
+  },
+  "resolutions": {
+    "webcomponentsjs": "0.7.3"
+  }
+}
